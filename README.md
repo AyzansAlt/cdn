@@ -2,4 +2,4 @@
 
 fetch files:
 
-https://raw.githubusercontent.com/ayzansalt/cdn/master/file.file
+`https://raw.githubusercontent.com/ayzansalt/cdn/master/file.file`
